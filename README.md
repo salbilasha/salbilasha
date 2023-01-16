@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salbilasha
-- 👀 I’m interested in data science and ui /ux design
-- 🌱 I’m currently learning phyton and design
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data 
+- 🌱 I’m currently learning phyton, Power BI, and any kind about data
+- 💞️ I’m looking to collaborate on data-project
 - 📫 Reach me on salbilasha@gmail.com or dm me on instagram @salbilasha
 
 <!---
